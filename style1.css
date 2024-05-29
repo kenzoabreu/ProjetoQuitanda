@@ -25,7 +25,7 @@ nav .logo a{
     width: 100%;  
 } 
 nav ul{
-    display: flex;
+    
     align-items: center;
     list-style: none;
     padding: 10px;
