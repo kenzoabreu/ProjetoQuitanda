@@ -49,8 +49,13 @@ header {
     border: 2px solid black;
     margin-top: 120px;
     background-color: #cbdeb6;
-    height: 40px;
+    height: 55px;
+}
 
+.cabecalho > p {
+    padding-right: 2%;   
+    display: inline;
+    font-size: medium;
 }
 
 .imagem {
@@ -68,6 +73,7 @@ header {
 
 a:hover {
     color: rgb(0, 235, 39);
+    font-size: 20px;
 }
 
 a {
